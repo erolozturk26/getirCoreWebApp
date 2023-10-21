@@ -1,0 +1,63 @@
+﻿@model AppModel.Models.Urunler
+@{
+    ViewData["Title"] = "Depo Kaldır";
+}
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="container">
+        <h2 class="page-header text-center">Ürün Kaldır</h2>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12 col-sm-offset-2">
+                <a asp-action="Index" class="btn btn-warning">Geri Dön</a>
+                <table class="table table-bordered table-striped" style="margin-top:20px;">
+                    <thead align="center">
+                    <th>@Html.DisplayNameFor(model => model.ID)</th>
+                    <th>@Html.DisplayNameFor(model => model.ADI)</th>
+                    <th>@Html.DisplayNameFor(model => model.MARKA)</th>
+                    <th>@Html.DisplayNameFor(model => model.ALISFIYAT)</th>
+                    <th>@Html.DisplayNameFor(model => model.SATISFIYAT)</th>
+                    <th>İŞLEM</th>
+                    </thead>
+                    <tbody align="center">
+                        <tr>
+                            <td>@Html.DisplayFor(model => model.ID)</td>
+                            <td>@Html.DisplayFor(model => model.ADI)</td>
+                            <td>@Html.DisplayFor(model => model.MARKA)</td>
+                            <td>@Html.DisplayFor(model => model.ALISFIYAT)₺</td>
+                            <td>@Html.DisplayFor(model => model.SATISFIYAT)₺</td>
+                            <td>
+                                <a class="btn btn-danger" data-toggle="modal" data-target="#logoutModal">
+                                    KALDIR
+                                </a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                     aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Emin misiniz ?</h5>
+                                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">"@Html.DisplayFor(model => model.ADI)" ürünü silmeye emin misiniz ?</div>
+                            <div class="modal-footer">
+                                <button class="btn btn-secondary" type="button" data-dismiss="modal">İptal et</button>
+                                <form asp-action="Delete">
+                                    <input type="hidden" asp-for="ID" />
+                                    <input type="submit" value="Evet" class="btn btn-danger" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

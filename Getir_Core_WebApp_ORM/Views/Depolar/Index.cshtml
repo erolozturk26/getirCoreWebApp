@@ -1,0 +1,51 @@
+﻿@model IEnumerable<AppModel.Models.Depolar>
+
+@{
+    ViewData["Title"] = "Depoları Listele";
+}
+
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="container">
+        <h2 class="page-header text-center">Depoları Listele</h2>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12 col-sm-offset-2">
+                <table class="table table-bordered table-striped" style="margin-top:20px;">
+                    <thead align="center">
+                    <th>@Html.DisplayNameFor(model => model.ID)</th>
+                    <th>@Html.DisplayNameFor(model => model.ADI)</th>
+                    <th>@Html.DisplayNameFor(model => model.ADRES)</th>
+                    <th>@Html.DisplayNameFor(model => model.CALISANSAYISI)</th>
+                    <th>İŞLEM</th>
+                    </thead>
+                    <tbody align="center">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ID)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ADI)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ADRES)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CALISANSAYISI)
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-success text-white"><i class="fa fa-pencil"></i>Düzenle</a>
+                                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger text-white"><i class="fa fa-pencil"></i> Kaldır</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

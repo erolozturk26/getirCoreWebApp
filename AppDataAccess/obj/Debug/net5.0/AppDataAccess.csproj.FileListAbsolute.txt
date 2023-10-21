@@ -1,0 +1,36 @@
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.AssemblyInfo.cs
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.deps.json
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.runtimeconfig.json
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.runtimeconfig.dev.json
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppModel.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppModel.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\refint\AppDataAccess.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.genruntimeconfig.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\ref\AppDataAccess.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.deps.json
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.runtimeconfig.json
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.runtimeconfig.dev.json
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppDataAccess.pdb
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppModel.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\bin\Debug\net5.0\AppModel.pdb
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.AssemblyReference.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.AssemblyInfoInputs.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.AssemblyInfo.cs
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.csproj.CopyComplete
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\refint\AppDataAccess.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.pdb
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\AppDataAccess.genruntimeconfig.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Getir_Core_WebApp_ORM\AppDataAccess\obj\Debug\net5.0\ref\AppDataAccess.dll

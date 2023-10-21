@@ -1,0 +1,66 @@
+﻿@model AppModel.Models.Depolar
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<!DOCTYPE html>
+<html>
+<style>
+    .center {
+        height: 100px;
+        text-align: center;
+    }
+
+    .btn {
+        border: none;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        text-decoration: none;
+        /*display: inline-block;*/
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+</style>
+<body>
+    <div class="container">
+        <h2 class="page-header text-center">Depo Düzenle</h2>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12 col-sm-offset-2">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="ID" />
+                    <div class="form-group">
+                        <label asp-for="ADI" class="control-label"></label>
+                        <input asp-for="ADI" class="form-control" />
+                        <span asp-validation-for="ADI" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ADRES" class="control-label"></label>
+                        <input asp-for="ADRES" class="form-control" />
+                        <span asp-validation-for="ADRES" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CALISANSAYISI" class="control-label"></label>
+                        <input asp-for="CALISANSAYISI" class="form-control" />
+                        <span asp-validation-for="CALISANSAYISI" class="text-danger"></span>
+                    </div>
+                    <div class="center">
+                        <input type="submit" value="Güncelle" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-warning">Geri Dön</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
